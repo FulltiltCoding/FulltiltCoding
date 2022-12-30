@@ -8,6 +8,16 @@
 FulltiltCoding/FulltiltCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+1 replaced by your Gmail link
+
+2 replaced by your LinkedIn link
+
+3 replaced by your Twitter link
+
+4 replaced by your Instagram link
+
+5 replaced by your Facebook link
 <a href=”1">
 <img align=”left” alt=”Gmail” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
