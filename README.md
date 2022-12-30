@@ -17,7 +17,7 @@
 <a href="https://twitter.com/fulltiltcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fulltiltcoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fulltiltcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fulltiltcoding" height="30" width="40" /></a>
 <a href="https://fb.com/fulltiltcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fulltiltcoding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fulltiltcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fulltiltcoding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCgG-YRa9Hpbh1PCpGDjLyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fulltiltcoding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
