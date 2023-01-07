@@ -2,7 +2,7 @@
 <h2 align="center">Imagine. Learn. Build.</h2>
 <h3 align="center">Learn TypeScript and JavaScript. They are better together!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fulltiltcoding&label=Profile%20views&color=0e75b6&style=flat" alt="fulltiltcoding" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fulltiltcoding&label=Profile%20views&color=0e75b6&style=flat" alt="fulltiltcoding" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/fulltiltcoding" target="blank"><img src="https://img.shields.io/twitter/follow/fulltiltcoding?logo=twitter&style=for-the-badge" alt="fulltiltcoding" /></a> </p>
 
